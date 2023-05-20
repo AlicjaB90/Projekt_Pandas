@@ -3,3 +3,4 @@ Analiza danych dotyczących wypadków samochodowych w NY - A. Bulanda, A. Włady
 W projekcie będziemy zajmować się....
 
 
+sprawdzam czy pushuje
