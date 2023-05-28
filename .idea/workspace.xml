@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="Wczytywanie danych">
-      <change beforePath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" afterDir="false" />
+    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem">
+      <change afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4. Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testowy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/sprawdzam czy działa push.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +39,6 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="3439f6e1-304b-414c-9e46-1bf5d7ca6a39" />
-  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684579957383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem">
+      <created>1685282738191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685282738191</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Wczytywanie danych" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wczytywanie danych" />
+    <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem" />
+    <option name="LAST_COMMIT_MESSAGE" value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem" />
   </component>
 </project>
