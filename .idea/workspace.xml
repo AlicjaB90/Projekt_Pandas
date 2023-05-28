@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="Wczytywanie danych" />
+    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="Wczytywanie danych">
+      <change beforePath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,11 +27,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3439f6e1-304b-414c-9e46-1bf5d7ca6a39" />
   </component>
@@ -49,15 +51,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/student/PythonDeveloper/GIT/Projekt_Pandas",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "two.files.diff.last.used.folder": "/home/student/PythonDeveloper/GIT/Projekt_Pandas"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/student/PythonDeveloper/GIT/Projekt_Pandas&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;/home/student/PythonDeveloper/GIT/Projekt_Pandas&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
