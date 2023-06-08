@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685282738191</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.">
+      <created>1686247838526</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686247838526</updated>
+    </task>
+    <task id="LOCAL-00005" summary="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.">
+      <created>1686247874304</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686247874304</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Wczytywanie danych" />
     <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem" />
-    <option name="LAST_COMMIT_MESSAGE" value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem" />
+    <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode." />
+    <option name="LAST_COMMIT_MESSAGE" value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode." />
   </component>
 </project>
