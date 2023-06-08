@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem">
-      <change afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4. Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testowy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/sprawdzam czy działa push.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
