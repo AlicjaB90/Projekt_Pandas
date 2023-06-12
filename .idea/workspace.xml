@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.">
+    <list default="true" id="e2102b1b-4373-4a30-ac70-03d101f3c6e2" name="Changes" comment="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.&#10;&#10;Dodanie podpisów pod tabelami.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY (wersja 2).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY (wersja 2).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY(wersja 1).ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY(wersja 1).ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. Ile zgonów oraz obrażeń zostało spowodowanych przez szybką jazdę oraz w danej dzielnicy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2. Ile zgonów oraz obrażeń zostało spowodowanych przez szybką jazdę oraz w danej dzielnicy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY (wersja 2).ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Najniebezpieczniejsze czynniki wypadków w danej dzielnicy NY(wersja 1).ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/4. Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4. Wizualizacja określająca ilość wypadków z podziałem na dni tygodnia.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686424910920</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.&#10;&#10;Dodanie podpisów pod tabelami.">
+      <created>1686428388466</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686428388466</updated>
+    </task>
+    <task id="LOCAL-00012" summary="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.&#10;&#10;Dodanie podpisów pod tabelami.">
+      <created>1686430096335</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686430096335</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +200,7 @@
     <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode." />
     <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)" />
     <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań." />
-    <option name="LAST_COMMIT_MESSAGE" value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań." />
+    <MESSAGE value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.&#10;&#10;Dodanie podpisów pod tabelami." />
+    <option name="LAST_COMMIT_MESSAGE" value="formatowanie dat, grupowanie danych i zmiana daty na dzień tygodnia, sumowanie ilości wypadków w danym dniu tygdnia w serii, stworzenie ponownie df na podstawie serii, indexowanie, nadanie nowych nazw kolumnom, stworzenie wykresu wraz z dokładną liczbą nad każdym słupkiem&#10;&#10;&#10;Stworzenie analizy podpunktu pierwszego z uzyciem explode.&#10;&#10;Ponowne wczytanie całej bazy danych(poprzednia nie pobrała się w całości)&#10;&#10;Dodanie opisów i podsumowań.&#10;&#10;Dodanie podpisów pod tabelami." />
   </component>
 </project>
